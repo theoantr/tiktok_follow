@@ -58,8 +58,8 @@ self.follow_prob = 0.3  # 30% chance to follow
 ## Watch duration (seconds)
 self.min_watch = 5    # Minimum watch time
 self.max_watch = 25   # Maximum watch time
+```
 ## 🚀 Usage <a name="Usage"></a>
-
 Run the bot with:
 python bot.py
 ```
