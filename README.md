@@ -67,15 +67,17 @@ Setting	Value	Description
 Sessions/Day	2-3	Maximum recommended
 Actions/Session	8-15	Follows + Likes
 Cooldown	4+ hrs	Between sessions
-🚨 Troubleshooting <a name="troubleshooting"></a>
+
+## 🚨 Troubleshooting <a name="troubleshooting"></a>
+
 Issue	Solution
 CAPTCHA loops	Pause for 24h + complete manually
 Login failures	Verify .env credentials + check account locks
 Browser errors	Update Chrome + chromedriver
-⚠️ Disclaimer <a name="disclaimer"></a>
+## ⚠️ Disclaimer <a name="disclaimer"></a>
 This tool is for educational purposes only. Using automation may violate TikTok's Terms of Service. The developers assume no responsibility for account restrictions.
 
-📝 License <a name="license"></a>
+## 📝 License <a name="license"></a>
 This project is licensed under the MIT License.
 
 <div align="center"> <a href="https://github.com/theoantr/tiktok_follow/issues">Report Issue</a> • <a href="https://github.com/theoantr/tiktok_follow/discussions">Get Help</a> • <a href="https://github.com/theoantr/tiktok_follow/wiki">Documentation</a> </div> ```
