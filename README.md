@@ -1,48 +1,38 @@
-markdown
-Copy
-# 🚀 TikTok Engagement Bot 🤖
+# 🤖 TikTok Engagement Bot
 
-<div align="center">
-  
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
-![Selenium](https://img.shields.io/badge/Selenium-4.0%2B-green?logo=selenium)
-![License](https://img.shields.io/badge/License-MIT-red)
-![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-lightgrey)
+A Python-based automation tool for safe TikTok engagement (follows/likes) using Selenium with human-like behavior patterns.
 
-*A smart automation tool for organic TikTok engagement with human-like behavior patterns*
-
-</div>
+![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
 
 ## ✨ Features
-- 🧠 Intelligent activity randomization
-- ⏱️ Natural delay patterns (5-25s between actions)
-- 📱 Mobile device emulation
-- 🔒 Undetectable browsing
-- ⚙️ Fully configurable settings
+- 🧠 Human-like engagement patterns
+- ⏱️ Randomized delays between actions
+- 📱 Mobile user-agent emulation
+- 🔒 Undetected ChromeDriver
+- 📊 Configurable engagement rates
 
 ## 🛠 Installation
 
 ### Prerequisites
-- 🐍 [Python 3.8+](https://www.python.org/downloads/)
-- 🌐 [Google Chrome](https://www.google.com/chrome/)
-- 🔑 TikTok account credentials
+- Python 3.8+
+- Chrome browser installed
+- TikTok account credentials
 
 ```bash
 # Clone the repository
 git clone https://github.com/theoantr/tiktok_follow.git
-bash
-Copy
-# Navigate to project directory
 cd tiktok_follow
-bash
-Copy
+
 # Install dependencies
 pip install -r requirements.txt
+```
 ⚙️ Configuration
 Create .env file:
 
 ini
 Copy
+# .env
 TIKTOK_USERNAME="your_username"
 TIKTOK_PASSWORD="your_password"
 Adjust settings in bot.py:
@@ -84,3 +74,24 @@ Star on GitHub
 License
 
 </div> ```
+Key Improvements:
+Visual Badges - Colorful version indicators
+
+Emoji Icons - Better visual scanning
+
+Responsive Tables - Clean settings display
+
+Center-Aligned Elements - Professional layout
+
+Social Badges - Star/License indicators
+
+Pro Tips Section - Helpful usage advice
+
+How to Use:
+Copy this entire text
+
+Create new file named README.md
+
+Paste the content
+
+Save in your project root
