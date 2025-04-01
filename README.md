@@ -80,4 +80,4 @@ This tool is for educational purposes only. Using automation may violate TikTok'
 ## 📝 License <a name="license"></a>
 This project is licensed under the MIT License.
 
-<div align="center"> <a href="https://github.com/theoantr/tiktok_follow/issues">Report Issue</a> • <a href="https://github.com/theoantr/tiktok_follow/discussions">Get Help</a> • <a href="https://github.com/theoantr/tiktok_follow/wiki">Documentation</a> </div> ```
+<div align="center"> <a href="https://github.com/theoantr/tiktok_follow/issues">Report Issue</a> • <a href="https://github.com/theoantr/tiktok_follow/discussions">Get Help</a> • <a href="https://github.com/theoantr/tiktok_follow/wiki">Documentation</a> </div> 
