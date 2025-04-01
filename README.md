@@ -1,3 +1,5 @@
+markdown
+Copy
 # 🚀 TikTok Engagement Bot 🤖
 
 <div align="center">
@@ -32,7 +34,6 @@ bash
 Copy
 # Navigate to project directory
 cd tiktok_follow
-```
 bash
 Copy
 # Install dependencies
@@ -79,3 +80,7 @@ Cooldown	4+ hrs	Between sessions
 ❗ Use a dedicated account if possible
 
 <div align="center">
+Star on GitHub
+License
+
+</div> ```
