@@ -32,7 +32,7 @@ bash
 Copy
 # Navigate to project directory
 cd tiktok_follow
-'''
+```
 bash
 Copy
 # Install dependencies
