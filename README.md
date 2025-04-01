@@ -27,22 +27,6 @@ cd tiktok_follow
 # Install dependencies
 pip install -r requirements.txt
 ```
-⚙️ Configuration
-Create .env file:
-
-ini
-Copy
 # .env
 TIKTOK_USERNAME="your_username"
 TIKTOK_PASSWORD="your_password"
-Adjust settings in bot.py:
-
-python
-Copy
-# Engagement probabilities (0-1)
-self.like_prob = 0.6  # 60% chance to like
-self.follow_prob = 0.3  # 30% chance to follow
-
-# Watch duration (seconds)
-self.min_watch = 5    # Minimum watch time
-self.max_watch = 25   # Maximum watch time
