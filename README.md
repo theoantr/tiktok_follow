@@ -62,7 +62,9 @@ self.max_watch = 25   # Maximum watch time
 ## 🚀 Usage <a name="Usage"></a>
 Run the bot with:
 
+```
 python bot.py
+```
 ```
 Recommended Settings
 Setting	Value	Description
