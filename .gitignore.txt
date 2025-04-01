@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.local
+
+# Virtual environment
+venv/
+.venv/
+
+# Chrome driver
+chromedriver.exe
+chromedriver
