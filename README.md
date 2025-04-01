@@ -51,22 +51,18 @@ Create .env file:
 TIKTOK_USERNAME="your_username"
 TIKTOK_PASSWORD="your_password"
 Adjust settings in bot.py:
-
-python
-Copy
-# Engagement probabilities (0-1)
+## Engagement probabilities (0-1)
 self.like_prob = 0.6  # 60% chance to like
 self.follow_prob = 0.3  # 30% chance to follow
 
-# Watch duration (seconds)
+## Watch duration (seconds)
 self.min_watch = 5    # Minimum watch time
 self.max_watch = 25   # Maximum watch time
-🚀 Usage <a name="usage"></a>
+## 🚀 Usage <a name="usage"></a>
 Run the bot with:
-
-bash
 ```
 python bot.py
+```
 Recommended Settings
 Setting	Value	Description
 Sessions/Day	2-3	Maximum recommended
