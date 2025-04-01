@@ -4,6 +4,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20Mac-lightgrey)
 
+
 ## 📌 Table of Contents
 - [Features](#features)
 - [Installation](#installation)
@@ -42,11 +43,11 @@ pip install -r requirements.txt
 python -m venv venv
 source venv/bin/activate  # Linux/Mac
 venv\Scripts\activate     # Windows
-⚙️ Configuration <a name="configuration"></a>
+```
+## ⚙️ Configuration <a name="configuration"></a>
 Create .env file:
 
-ini
-Copy
+```ini
 TIKTOK_USERNAME="your_username"
 TIKTOK_PASSWORD="your_password"
 Adjust settings in bot.py:
@@ -64,7 +65,7 @@ self.max_watch = 25   # Maximum watch time
 Run the bot with:
 
 bash
-Copy
+```
 python bot.py
 Recommended Settings
 Setting	Value	Description
