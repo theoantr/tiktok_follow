@@ -61,6 +61,7 @@ self.max_watch = 25   # Maximum watch time
 ```
 ## 🚀 Usage <a name="Usage"></a>
 Run the bot with:
+
 python bot.py
 ```
 Recommended Settings
@@ -68,7 +69,7 @@ Setting	Value	Description
 Sessions/Day	2-3	Maximum recommended
 Actions/Session	8-15	Follows + Likes
 Cooldown	4+ hrs	Between sessions
-
+```
 ## 🚨 Troubleshooting <a name="troubleshooting"></a>
 
 Issue	Solution
