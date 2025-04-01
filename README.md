@@ -60,7 +60,6 @@ self.min_watch = 5    # Minimum watch time
 self.max_watch = 25   # Maximum watch time
 ## 🚀 Usage <a name="usage"></a>
 Run the bot with:
-```
 python bot.py
 ```
 Recommended Settings
